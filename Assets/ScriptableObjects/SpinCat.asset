@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a943ff615db8cd243a6b6477c9a865f3, type: 3}
   m_Name: SpinCat
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
-  prefab: {fileID: 0}
-  cost: 0
+  icon: {fileID: 21300000, guid: d69936b433be01f418423cedf7eecc98, type: 3}
+  prefab: {fileID: 5532821041613573590, guid: cbf1c6c89473a8d458a5981853c12312, type: 3}
+  cost: 50

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a943ff615db8cd243a6b6477c9a865f3, type: 3}
   m_Name: BananaCat
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
-  prefab: {fileID: 0}
+  icon: {fileID: 21300000, guid: 4a3fa2d5c93ece6439cfe389e882948b, type: 3}
+  prefab: {fileID: 359820334918553672, guid: 5f91cfe326c96f040988c2cbd0ebf990, type: 3}
   cost: 100
