@@ -87,6 +87,9 @@ public class CardManager : MonoBehaviour, IDragHandler, IPointerUpHandler, IPoin
 
             _gridController.Grid[x, y] = _pet;
             _pet.ResetColor();
+
+            MiningTransition miningTransition = _draggingPet.GetComponent<MiningTransition>();
+            miningTransition.IsBuildingPlaced = true;
         }
     }
 
